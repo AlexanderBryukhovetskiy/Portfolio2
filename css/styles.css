@@ -1,0 +1,26 @@
+/*reset styles*/
+
+
+
+
+/*reset styles*/
+
+:root {
+  --brandColor: #2196F3;
+  --headsColor: #212121;
+  --textColor: #757575;
+}
+
+h1, h2, h3{
+  color: var(--headsColor);
+};
+
+p, ul, li {
+  color: var(--textColor);
+};
+
+a {
+  color: var(--textColor);
+  text-decoration: none;
+  cursor: pointer;
+};
